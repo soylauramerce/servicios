@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" width="900" height="700" role="img" aria-label="Social 02 — imagen placeholder">
+  <defs>
+    <linearGradient id="g13" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#EFC1D3"/>
+      <stop offset="100%" stop-color="#7A1533"/>
+    </linearGradient>
+    <radialGradient id="s13" cx="50%" cy="35%" r="70%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="900" height="700" fill="url(#g13)"/>
+  <rect width="900" height="700" fill="url(#s13)"/>
+  <g opacity="0.5" transform="rotate(121 738 126)">
+    <path d="M773,126 L747.8994949366116,135.89949493661166 L738,161 L728.1005050633884,135.89949493661166 L703,126 L728.1005050633884,116.10050506338834 L738,91 L747.8994949366116,116.10050506338834 Z" fill="#ffffff" opacity="0.55"/>
+  </g>
+  <g opacity="0.35" transform="rotate(161 126.00000000000001 574)">
+    <path d="M150.50000000000003,574 L132.9296464556282,580.9296464556281 L126.00000000000001,598.5 L119.07035354437184,580.9296464556281 L101.50000000000001,574 L119.07035354437184,567.0703535443719 L126.00000000000001,549.5 L132.9296464556282,567.0703535443719 Z" fill="#ffffff" opacity="0.6"/>
+  </g>
+  <circle cx="450" cy="350" r="0.7000000000000001" fill="none"/>
+  <text x="50%" y="47%" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="52.5" fill="#ffffff" opacity="0.92" letter-spacing="2">MERCE</text>
+  <text x="50%" y="54%" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="22.400000000000002" fill="#ffffff" opacity="0.85" letter-spacing="1">Social 02</text>
+  <text x="50%" y="94%" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#ffffff" opacity="0.6" letter-spacing="0.5">reemplazar por foto real</text>
+</svg>

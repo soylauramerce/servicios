@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 800" width="900" height="800" role="img" aria-label="Ocasión especial 02 — imagen placeholder">
+  <defs>
+    <linearGradient id="g24" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F6D8E2"/>
+      <stop offset="100%" stop-color="#B71856"/>
+    </linearGradient>
+    <radialGradient id="s24" cx="50%" cy="35%" r="70%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="900" height="800" fill="url(#g24)"/>
+  <rect width="900" height="800" fill="url(#s24)"/>
+  <g opacity="0.5" transform="rotate(168 738 144)">
+    <path d="M778,144 L749.3137084989847,155.31370849898477 L738,184 L726.6862915010153,155.31370849898477 L698,144 L726.6862915010153,132.68629150101523 L738,104 L749.3137084989847,132.68629150101523 Z" fill="#ffffff" opacity="0.55"/>
+  </g>
+  <g opacity="0.35" transform="rotate(208 126.00000000000001 656)">
+    <path d="M154.00000000000003,656 L133.91959594928935,663.9195959492894 L126.00000000000001,684 L118.08040405071068,663.9195959492894 L98.00000000000001,656 L118.08040405071068,648.0804040507106 L126.00000000000001,628 L133.91959594928935,648.0804040507106 Z" fill="#ffffff" opacity="0.6"/>
+  </g>
+  <circle cx="450" cy="400" r="0.8" fill="none"/>
+  <text x="50%" y="47%" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="60" fill="#ffffff" opacity="0.92" letter-spacing="2">MERCE</text>
+  <text x="50%" y="54%" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="25.6" fill="#ffffff" opacity="0.85" letter-spacing="1">Ocasión especial 02</text>
+  <text x="50%" y="94%" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#ffffff" opacity="0.6" letter-spacing="0.5">reemplazar por foto real</text>
+</svg>

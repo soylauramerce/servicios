@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1250" width="1000" height="1250" role="img" aria-label="Taller 1:1 — imagen placeholder">
+  <defs>
+    <linearGradient id="g29" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F6D8E2"/>
+      <stop offset="100%" stop-color="#B71856"/>
+    </linearGradient>
+    <radialGradient id="s29" cx="50%" cy="35%" r="70%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1000" height="1250" fill="url(#g29)"/>
+  <rect width="1000" height="1250" fill="url(#s29)"/>
+  <g opacity="0.5" transform="rotate(353 820 225)">
+    <path d="M870,225 L834.142135623731,239.14213562373095 L820,275 L805.857864376269,239.14213562373095 L770,225 L805.857864376269,210.85786437626905 L820,175 L834.142135623731,210.85786437626905 Z" fill="#ffffff" opacity="0.55"/>
+  </g>
+  <g opacity="0.35" transform="rotate(33 140 1025)">
+    <path d="M175,1025 L149.89949493661166,1034.8994949366117 L140,1060 L130.10050506338834,1034.8994949366117 L105,1025 L130.10050506338834,1015.1005050633884 L140,990 L149.89949493661166,1015.1005050633884 Z" fill="#ffffff" opacity="0.6"/>
+  </g>
+  <circle cx="500" cy="625" r="1" fill="none"/>
+  <text x="50%" y="47%" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="75" fill="#ffffff" opacity="0.92" letter-spacing="2">MERCE</text>
+  <text x="50%" y="54%" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="32" fill="#ffffff" opacity="0.85" letter-spacing="1">Taller 1:1</text>
+  <text x="50%" y="94%" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#ffffff" opacity="0.6" letter-spacing="0.5">reemplazar por foto real</text>
+</svg>

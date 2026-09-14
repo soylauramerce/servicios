@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# TODO: reemplazar por el dominio definitivo cuando el sitio esté desplegado
+Sitemap: https://tu-dominio-definitivo.com/sitemap.xml
