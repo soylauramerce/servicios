@@ -17,7 +17,7 @@ export const services = [
     eyebrow: "01 · Para brillar sin dejar de ser tú",
     name: "Maquillaje Social",
     description:
-      "Para esas ocasiones en las que quieres sentirte increíble sin dejar de sentirte tú: cenas, fiestas, cumpleaños, sesiones de fotos o esa invitación que ya tienes marcada en el calendario.",
+      "Para esas ocasiones en las que quieres sentirte increíble sin dejar de sentirte tú: cenas, fiestas, cumpleaños, celebraciones, sesiones de fotos o esa invitación que ya tienes marcada en el calendario.",
     price: "$150.000 COP",
     priceNote: null,
     image: "/images/services/social.jpg",
@@ -58,25 +58,12 @@ export const services = [
     name: "Grados",
     description:
       "Un capítulo termina. Uno nuevo comienza. Celebra cómo te ves y, sobre todo, cómo te sientes: en el escenario, en las fotos y en cada abrazo después.",
-    price: "Cotiza tu fecha",
+    price: "$150.000 COP",
     priceNote: null,
     image: "/images/services/grados.svg",
     imageAlt: "Maquillaje de grado realizado por Merce",
-    cta: "Cotizar mi fecha",
-    whatsappKey: "grados",
-  },
-  {
-    id: "ocasiones",
-    eyebrow: "05 · Porque hoy también cuenta",
-    name: "Ocasiones especiales",
-    description:
-      "Porque no necesitas una razón enorme para sentirte espectacular. Cumpleaños, cenas, sesiones de fotos, celebraciones o simplemente un día para ti.",
-    price: "Cotiza tu fecha",
-    priceNote: null,
-    image: "/images/services/ocasiones.svg",
-    imageAlt: "Maquillaje para ocasión especial realizado por Merce",
     cta: "Quiero reservar",
-    whatsappKey: "general",
+    whatsappKey: "grados",
   },
 ];
 

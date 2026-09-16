@@ -1,5 +1,6 @@
 import Button from "../components/Button";
 import { hero } from "../data/content";
+import { siteConfig } from "../data/siteConfig";
 
 export default function Hero() {
   return (
@@ -30,7 +31,13 @@ export default function Hero() {
             <Button as="a" href="#contacto" variant="primary">
               {hero.ctaPrimary}
             </Button>
-            <Button as="a" href="#portafolio" variant="outline">
+            <Button
+              as="a"
+              href={`https://instagram.com/${siteConfig.instagramHandle}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              variant="outline"
+            >
               {hero.ctaSecondary}
             </Button>
           </div>
@@ -56,7 +63,7 @@ export default function Hero() {
 
           <div className="absolute -top-6 right-6 flex items-center gap-2 rounded-full bg-cream/90 px-4 py-2 shadow-lg backdrop-blur-sm">
             <StarIcon />
-            <span className="text-[11px] uppercase tracking-[0.12em] text-ink">Estudio propio</span>
+            <span className="text-[11px] uppercase tracking-[0.12em] text-ink">Estudio propio · Sin domicilios</span>
           </div>
         </div>
       </div>

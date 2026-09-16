@@ -4,7 +4,6 @@ import { siteConfig } from "../data/siteConfig";
 const LINKS = [
   { href: "#inicio", label: "Inicio" },
   { href: "#servicios", label: "Servicios" },
-  { href: "#portafolio", label: "Portafolio" },
   { href: "#automaquillaje", label: "Automaquillaje" },
   { href: "#sobre-mi", label: "Sobre mí" },
   { href: "#contacto", label: "Contacto" },

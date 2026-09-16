@@ -11,9 +11,9 @@ export const hero = {
   headline: "El maquillaje no cambia quién eres.",
   headlineAccent: "Revela cómo quieres sentirte.",
   sub: "Maquillaje profesional en Armenia, Quindío.",
-  services: "Social · Novias · Grados · Ocasiones especiales · Automaquillaje",
+  services: "Social · Novias · Grados · Automaquillaje",
   ctaPrimary: "Reservar mi cita",
-  ctaSecondary: "Ver portafolio",
+  ctaSecondary: "Ver en Instagram",
 };
 
 export const storytelling = {
@@ -39,8 +39,8 @@ export const studioExperience = {
   title: "Tu cita es más que una cita.",
   intro:
     "Creé este espacio para que puedas desconectarte, prepararte y disfrutar el momento antes de salir a celebrar. Tu experiencia comienza desde que entras al estudio.",
-  addressLabel: "Estudio Merce",
-  addressLine: "Armenia · Zona norte",
+  addressLabel: "Armenia · Quindío",
+  addressLine: "Zona norte",
   note: "Un espacio pensado para ti. Todos los servicios se realizan en nuestro estudio privado en la zona norte de Armenia.",
   disclaimer: "Los servicios se realizan exclusivamente en el estudio. No se realizan domicilios.",
   benefits: [

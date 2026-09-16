@@ -27,13 +27,13 @@ export const siteConfig = {
     quince:
       "Hola Merce 💕 Quiero consultar disponibilidad para maquillaje de quinceañera.",
     grados:
-      "Hola Merce 💕 Quiero cotizar maquillaje para mi grado. ¿Me cuentas disponibilidad?",
+      "Hola Merce 💕 Quiero reservar mi maquillaje de grado. ¿Me cuentas disponibilidad?",
   },
 
   seo: {
     title: "Merce | Maquilladora Profesional en Armenia, Quindío",
     description:
-      "Maquillaje profesional en Armenia, Quindío. Maquillaje social, novias, quinceañeras, grados, ocasiones especiales y talleres de automaquillaje 1:1.",
+      "Maquillaje profesional en Armenia, Quindío. Maquillaje social, novias, quinceañeras, grados y talleres de automaquillaje 1:1.",
   },
 };
 

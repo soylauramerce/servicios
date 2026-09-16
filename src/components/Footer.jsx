@@ -19,7 +19,6 @@ export default function Footer() {
             <p className="text-[11px] uppercase tracking-[0.24em] text-cream/50">Navegación</p>
             <ul className="mt-4 space-y-2.5 text-sm text-cream/75">
               <li><a href="#servicios" className="hover:text-pink">Servicios</a></li>
-              <li><a href="#portafolio" className="hover:text-pink">Portafolio</a></li>
               <li><a href="#automaquillaje" className="hover:text-pink">Automaquillaje 1:1</a></li>
               <li><a href="#sobre-mi" className="hover:text-pink">Sobre mí</a></li>
               <li><a href="#ubicacion" className="hover:text-pink">Ubicación</a></li>
