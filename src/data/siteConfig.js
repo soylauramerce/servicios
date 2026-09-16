@@ -13,20 +13,9 @@ export const siteConfig = {
     locationDetail: "Zona norte",
   },
 
-  // TODO: reemplazar por el número real de WhatsApp con código de país,
-  // sin espacios ni símbolos. Ejemplo: "573001234567"
-  whatsappNumber: "WHATSAPP_NUMBER",
+  whatsappNumber: "573219523939",
 
-  // TODO: reemplazar por el usuario real de Instagram (sin @)
-  instagramHandle: "INSTAGRAM_HANDLE",
-
-  // TODO: reemplazar por la dirección exacta del estudio cuando esté disponible.
-  studioAddress: "[DIRECCIÓN DEL ESTUDIO]",
-
-  // TODO: cuando exista una ubicación en Google Maps, reemplazar por el src real
-  // de un iframe de Google Maps embed, o por el link "compartir ubicación".
-  googleMapsEmbedUrl: "",
-  googleMapsLink: "",
+  instagramHandle: "makeup.merce04",
 
   whatsappMessages: {
     general:

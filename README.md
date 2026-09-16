@@ -78,11 +78,10 @@ public/
 Toda la información "de negocio" vive en `src/data/`. No es necesario tocar ningún componente para actualizar textos o precios.
 
 ### `src/data/siteConfig.js`
-- **WhatsApp:** cambia `whatsappNumber` por el número real, con código de país y sin espacios ni símbolos. Ejemplo: `"573001234567"`.
-- **Instagram:** cambia `instagramHandle` (sin `@`).
-- **Dirección del estudio:** cambia `studioAddress`.
-- **Google Maps:** cuando exista el embed real, completa `googleMapsEmbedUrl` y `googleMapsLink`, y actualiza `src/sections/Location.jsx` para usar un `<iframe src={siteConfig.googleMapsEmbedUrl} />` en lugar del placeholder.
+- **WhatsApp:** el número real ya está configurado en `whatsappNumber` (con código de país, sin espacios ni símbolos).
+- **Instagram:** el usuario real ya está en `instagramHandle` (sin `@`).
 - **Mensajes de WhatsApp:** edita los textos dentro de `whatsappMessages` para cada tipo de servicio.
+- **Dirección y Google Maps:** la sección "Encuéntrame en Armenia" (`src/sections/Location.jsx`) hoy solo muestra la zona (Armenia · Zona norte) y un botón de WhatsApp para pedir la ubicación exacta, porque todavía no hay una dirección pública. Cuando la haya: agrega un campo `studioAddress` (y opcionalmente `googleMapsEmbedUrl`) en `siteConfig.js`, y muéstralos en `Location.jsx` (por ejemplo con un `<iframe src={siteConfig.googleMapsEmbedUrl} />`).
 
 ### `src/data/services.js`
 - Cada servicio (Social, Quinceañeras, Novias, Grados, Ocasiones, Taller de Automaquillaje) tiene su propio objeto con `name`, `description`, `price`, `image`, etc.
@@ -204,11 +203,8 @@ Antes de publicar el sitio en producción, revisa y completa estos valores:
 
 | Variable | Archivo | Qué hacer |
 |---|---|---|
-| `whatsappNumber` | `src/data/siteConfig.js` | Número real de WhatsApp con código de país |
-| `instagramHandle` | `src/data/siteConfig.js` | Usuario real de Instagram |
-| `studioAddress` | `src/data/siteConfig.js` | Dirección exacta del estudio |
-| `googleMapsEmbedUrl` / `googleMapsLink` | `src/data/siteConfig.js` | Enlace de Google Maps cuando esté disponible |
-| Fotografías | `public/images/**` | Reemplazar todos los placeholders `.svg` por fotos reales |
+| Dirección del estudio y Google Maps | `src/sections/Location.jsx` / `siteConfig.js` | Agregar cuando exista una dirección pública (ver sección 6) |
+| Fotografías de Novias, Quinceañeras, Grados y Ocasiones especiales | `public/images/**` | Reemplazar los placeholders `.svg` restantes por fotos reales (ver `LISTA_DE_FOTOS.md`) |
 | Historia personal / experiencia | `src/data/content.js` (sección `about`) | Completar cuando Merce confirme los datos |
 
 ---
