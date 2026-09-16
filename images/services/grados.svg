@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100" width="900" height="1100" role="img" aria-label="Grados — imagen placeholder">
+  <defs>
+    <linearGradient id="g6" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F2A9C4"/>
+      <stop offset="100%" stop-color="#6B1233"/>
+    </linearGradient>
+    <radialGradient id="s6" cx="50%" cy="35%" r="70%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="900" height="1100" fill="url(#g6)"/>
+  <rect width="900" height="1100" fill="url(#s6)"/>
+  <g opacity="0.5" transform="rotate(222 738 198)">
+    <path d="M783,198 L750.7279220613578,210.72792206135784 L738,243 L725.2720779386422,210.72792206135784 L693,198 L725.2720779386422,185.27207793864216 L738,153 L750.7279220613578,185.27207793864216 Z" fill="#ffffff" opacity="0.55"/>
+  </g>
+  <g opacity="0.35" transform="rotate(262 126.00000000000001 902)">
+    <path d="M157.50000000000003,902 L134.9095454429505,910.9095454429505 L126.00000000000001,933.5 L117.09045455704951,910.9095454429505 L94.50000000000001,902 L117.09045455704951,893.0904545570495 L126.00000000000001,870.5 L134.9095454429505,893.0904545570495 Z" fill="#ffffff" opacity="0.6"/>
+  </g>
+  <circle cx="450" cy="550" r="0.9" fill="none"/>
+  <text x="50%" y="47%" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="67.5" fill="#ffffff" opacity="0.92" letter-spacing="2">MERCE</text>
+  <text x="50%" y="54%" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="28.8" fill="#ffffff" opacity="0.85" letter-spacing="1">Grados</text>
+  <text x="50%" y="94%" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="18" fill="#ffffff" opacity="0.6" letter-spacing="0.5">reemplazar por foto real</text>
+</svg>

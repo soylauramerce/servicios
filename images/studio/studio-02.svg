@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000" role="img" aria-label="Estudio — detalle — imagen placeholder">
+  <defs>
+    <linearGradient id="g10" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F7DCE4"/>
+      <stop offset="100%" stop-color="#D0296A"/>
+    </linearGradient>
+    <radialGradient id="s10" cx="50%" cy="35%" r="70%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#g10)"/>
+  <rect width="800" height="1000" fill="url(#s10)"/>
+  <g opacity="0.5" transform="rotate(10 656 180)">
+    <path d="M696,180 L667.3137084989847,191.31370849898477 L656,220 L644.6862915010153,191.31370849898477 L616,180 L644.6862915010153,168.68629150101523 L656,140 L667.3137084989847,168.68629150101523 Z" fill="#ffffff" opacity="0.55"/>
+  </g>
+  <g opacity="0.35" transform="rotate(50 112.00000000000001 820)">
+    <path d="M140.00000000000003,820 L119.91959594928935,827.9195959492894 L112.00000000000001,848 L104.08040405071068,827.9195959492894 L84.00000000000001,820 L104.08040405071068,812.0804040507106 L112.00000000000001,792 L119.91959594928935,812.0804040507106 Z" fill="#ffffff" opacity="0.6"/>
+  </g>
+  <circle cx="400" cy="500" r="0.8" fill="none"/>
+  <text x="50%" y="47%" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="60" fill="#ffffff" opacity="0.92" letter-spacing="2">MERCE</text>
+  <text x="50%" y="54%" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="25.6" fill="#ffffff" opacity="0.85" letter-spacing="1">Estudio — detalle</text>
+  <text x="50%" y="94%" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" fill="#ffffff" opacity="0.6" letter-spacing="0.5">reemplazar por foto real</text>
+</svg>

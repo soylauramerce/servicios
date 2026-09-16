@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 1200" width="950" height="1200" role="img" aria-label="Sobre Merce — imagen placeholder">
+  <defs>
+    <linearGradient id="g28" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#EFC1D3"/>
+      <stop offset="100%" stop-color="#7A1533"/>
+    </linearGradient>
+    <radialGradient id="s28" cx="50%" cy="35%" r="70%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="950" height="1200" fill="url(#g28)"/>
+  <rect width="950" height="1200" fill="url(#s28)"/>
+  <g opacity="0.5" transform="rotate(316 779 216)">
+    <path d="M826.5,216 L792.4350288425444,229.4350288425444 L779,263.5 L765.5649711574556,229.4350288425444 L731.5,216 L765.5649711574556,202.5649711574556 L779,168.5 L792.4350288425444,202.5649711574556 Z" fill="#ffffff" opacity="0.55"/>
+  </g>
+  <g opacity="0.35" transform="rotate(356 133 983.9999999999999)">
+    <path d="M166.25,983.9999999999999 L142.4045201897811,993.404520189781 L133,1017.2499999999999 L123.59547981021892,993.404520189781 L99.75,983.9999999999999 L123.59547981021892,974.5954798102188 L133,950.7499999999999 L142.40452018978107,974.5954798102188 Z" fill="#ffffff" opacity="0.6"/>
+  </g>
+  <circle cx="475" cy="600" r="0.9500000000000001" fill="none"/>
+  <text x="50%" y="47%" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="71.25" fill="#ffffff" opacity="0.92" letter-spacing="2">MERCE</text>
+  <text x="50%" y="54%" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="30.400000000000002" fill="#ffffff" opacity="0.85" letter-spacing="1">Sobre Merce</text>
+  <text x="50%" y="94%" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="19" fill="#ffffff" opacity="0.6" letter-spacing="0.5">reemplazar por foto real</text>
+</svg>

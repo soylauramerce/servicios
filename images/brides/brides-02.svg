@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 750" width="1000" height="750" role="img" aria-label="Novias — detalle — imagen placeholder">
+  <defs>
+    <linearGradient id="g27" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FBF3EC"/>
+      <stop offset="100%" stop-color="#C81F63"/>
+    </linearGradient>
+    <radialGradient id="s27" cx="50%" cy="35%" r="70%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1000" height="750" fill="url(#g27)"/>
+  <rect width="1000" height="750" fill="url(#s27)"/>
+  <g opacity="0.5" transform="rotate(279 820 135)">
+    <path d="M857.5,135 L830.6066017177982,145.6066017177982 L820,172.5 L809.3933982822018,145.6066017177982 L782.5,135 L809.3933982822018,124.39339828220179 L820,97.5 L830.6066017177982,124.39339828220179 Z" fill="#ffffff" opacity="0.55"/>
+  </g>
+  <g opacity="0.35" transform="rotate(319 140 615)">
+    <path d="M166.25,615 L147.42462120245875,622.4246212024588 L140,641.25 L132.57537879754125,622.4246212024588 L113.75,615 L132.57537879754125,607.5753787975412 L140,588.75 L147.42462120245875,607.5753787975412 Z" fill="#ffffff" opacity="0.6"/>
+  </g>
+  <circle cx="500" cy="375" r="0.75" fill="none"/>
+  <text x="50%" y="47%" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="56.25" fill="#ffffff" opacity="0.92" letter-spacing="2">MERCE</text>
+  <text x="50%" y="54%" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#ffffff" opacity="0.85" letter-spacing="1">Novias — detalle</text>
+  <text x="50%" y="94%" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#ffffff" opacity="0.6" letter-spacing="0.5">reemplazar por foto real</text>
+</svg>

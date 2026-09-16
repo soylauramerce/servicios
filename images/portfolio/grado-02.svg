@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 750" width="900" height="750" role="img" aria-label="Grado 02 — imagen placeholder">
+  <defs>
+    <linearGradient id="g22" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FBF3EC"/>
+      <stop offset="100%" stop-color="#C81F63"/>
+    </linearGradient>
+    <radialGradient id="s22" cx="50%" cy="35%" r="70%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="900" height="750" fill="url(#g22)"/>
+  <rect width="900" height="750" fill="url(#s22)"/>
+  <g opacity="0.5" transform="rotate(94 738 135)">
+    <path d="M775.5,135 L748.6066017177982,145.6066017177982 L738,172.5 L727.3933982822018,145.6066017177982 L700.5,135 L727.3933982822018,124.39339828220179 L738,97.5 L748.6066017177982,124.39339828220179 Z" fill="#ffffff" opacity="0.55"/>
+  </g>
+  <g opacity="0.35" transform="rotate(134 126.00000000000001 615)">
+    <path d="M152.25000000000003,615 L133.42462120245875,622.4246212024588 L126.00000000000001,641.25 L118.57537879754126,622.4246212024588 L99.75000000000001,615 L118.57537879754126,607.5753787975412 L126.00000000000001,588.75 L133.42462120245875,607.5753787975412 Z" fill="#ffffff" opacity="0.6"/>
+  </g>
+  <circle cx="450" cy="375" r="0.75" fill="none"/>
+  <text x="50%" y="47%" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="56.25" fill="#ffffff" opacity="0.92" letter-spacing="2">MERCE</text>
+  <text x="50%" y="54%" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#ffffff" opacity="0.85" letter-spacing="1">Grado 02</text>
+  <text x="50%" y="94%" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#ffffff" opacity="0.6" letter-spacing="0.5">reemplazar por foto real</text>
+</svg>
