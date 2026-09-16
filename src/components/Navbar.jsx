@@ -4,7 +4,7 @@ import { siteConfig } from "../data/siteConfig";
 const LINKS = [
   { href: "#inicio", label: "Inicio" },
   { href: "#servicios", label: "Servicios" },
-  { href: "#automaquillaje", label: "Automaquillaje" },
+  { href: "#automaquillaje", label: "Automaquillaje", featured: true },
   { href: "#sobre-mi", label: "Sobre mí" },
   { href: "#contacto", label: "Contacto" },
 ];
@@ -42,8 +42,11 @@ export default function Navbar() {
             <li key={link.href}>
               <a
                 href={link.href}
-                className="text-[13px] uppercase tracking-[0.12em] text-ink-soft transition-colors hover:text-fuchsia"
+                className={`inline-flex items-center gap-1.5 text-[13px] uppercase tracking-[0.12em] transition-colors hover:text-fuchsia ${
+                  link.featured ? "font-semibold text-fuchsia" : "font-medium text-ink"
+                }`}
               >
+                {link.featured && <span aria-hidden="true">✦</span>}
                 {link.label}
               </a>
             </li>
@@ -84,8 +87,11 @@ export default function Navbar() {
               <a
                 href={link.href}
                 onClick={handleLinkClick}
-                className="block py-3 text-lg font-display text-ink border-b border-ink/10"
+                className={`flex items-center gap-2 py-3 text-lg font-display border-b border-ink/10 ${
+                  link.featured ? "text-fuchsia" : "text-ink"
+                }`}
               >
+                {link.featured && <span aria-hidden="true">✦</span>}
                 {link.label}
               </a>
             </li>
