@@ -9,7 +9,7 @@ export default function About() {
         <div className="grid gap-14 md:grid-cols-[0.85fr_1.15fr] md:items-center md:gap-16">
           <Reveal className="img-zoom relative aspect-[4/5] overflow-hidden rounded-3xl">
             <img
-              src="/images/about/about-merce.jpg"
+              src="images/about/about-merce.jpg"
               alt="Retrato de Merce, maquilladora profesional"
               className="h-full w-full object-cover"
               loading="lazy"

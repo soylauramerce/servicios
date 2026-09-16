@@ -8,7 +8,7 @@ import { services } from "../data/services";
 // Foto única para toda la sección (en vez de una por servicio) mientras no
 // existan fotos reales para cada categoría. Para volver a una foto por
 // servicio, usa el campo `image` de cada objeto en src/data/services.js.
-const SERVICES_IMAGE = "/images/services/social.jpg";
+const SERVICES_IMAGE = "images/services/social.jpg";
 const SERVICES_IMAGE_ALT = "Maquillaje realizado por Merce";
 
 export default function Services() {

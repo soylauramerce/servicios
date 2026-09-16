@@ -15,7 +15,7 @@ export default function Brides() {
             <Reveal className="img-zoom aspect-[3/4] overflow-hidden rounded-3xl">
               {/* TODO: reemplazar por fotografía real de novia maquillada por Merce */}
               <img
-                src="/images/brides/brides-01.svg"
+                src="images/brides/brides-01.svg"
                 alt="Maquillaje de novia realizado por Merce"
                 className="h-full w-full object-cover"
                 loading="lazy"
@@ -23,7 +23,7 @@ export default function Brides() {
             </Reveal>
             <Reveal delay={1} className="img-zoom mt-10 aspect-[3/4] overflow-hidden rounded-3xl">
               <img
-                src="/images/brides/brides-02.svg"
+                src="images/brides/brides-02.svg"
                 alt="Detalle de maquillaje de novia"
                 className="h-full w-full object-cover"
                 loading="lazy"
