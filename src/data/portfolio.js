@@ -20,7 +20,7 @@ export const portfolioItems = [
   {
     id: "social-01",
     category: "social",
-    image: "/images/portfolio/social-01.svg",
+    image: "/images/portfolio/social-01.jpg",
     alt: "Maquillaje social — look editorial",
     size: "tall",
   },

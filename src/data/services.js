@@ -3,6 +3,12 @@
 // Servicios, precios y textos. Edita precios y descripciones aquí.
 // "price" acepta texto libre: usa "Cotización personalizada" cuando no haya
 // tarifa fija. Los montos van en pesos colombianos con formato "$150.000 COP".
+//
+// Nota: los campos "image"/"imageAlt" de cada servicio no se muestran
+// actualmente — la sección de Servicios usa una sola foto fija (ver
+// SERVICES_IMAGE en src/sections/Services.jsx) mientras no haya una foto real
+// por cada categoría. Se conservan aquí para poder volver a mostrar una foto
+// por servicio en cuanto existan esas fotos.
 // ============================================================================
 
 export const services = [
@@ -14,7 +20,7 @@ export const services = [
       "Para esas ocasiones en las que quieres sentirte increíble sin dejar de sentirte tú: cenas, fiestas, cumpleaños, sesiones de fotos o esa invitación que ya tienes marcada en el calendario.",
     price: "$150.000 COP",
     priceNote: null,
-    image: "/images/services/social.svg",
+    image: "/images/services/social.jpg",
     imageAlt: "Maquillaje social realizado por Merce",
     cta: "Quiero reservar",
     whatsappKey: "general",
@@ -100,8 +106,8 @@ export const selfMakeupWorkshop = {
     "Incluye acompañamiento y asesoría para elegir los productos correctos para ti.",
   cta: "Quiero aprender",
   whatsappKey: "automaquillaje",
-  image: "/images/selfmakeup/selfmakeup-01.svg",
+  image: "/images/selfmakeup/selfmakeup-01.jpg",
   imageAlt: "Taller de automaquillaje 1:1 con Merce",
-  imageDetail: "/images/selfmakeup/selfmakeup-02.svg",
+  imageDetail: "/images/selfmakeup/selfmakeup-02.jpg",
   imageDetailAlt: "Detalle del taller de automaquillaje 1:1",
 };

@@ -12,6 +12,9 @@ dist
 dist-ssr
 *.local
 
+# Fotos originales sin optimizar (subidas para procesar, no se versionan)
+FOTOS/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json

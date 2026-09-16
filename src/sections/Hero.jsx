@@ -39,9 +39,8 @@ export default function Hero() {
         {/* Columna visual */}
         <div className="relative order-1 md:order-2">
           <div className="relative mx-auto aspect-[4/5] w-full max-w-md overflow-hidden rounded-[2rem] shadow-2xl shadow-wine/10 md:max-w-none">
-            {/* TODO: reemplazar por foto real de Merce o de un maquillaje realizado por ella */}
             <img
-              src="/images/hero/hero-main.svg"
+              src="/images/hero/hero-main.jpg"
               alt="Maquillaje realizado por Merce"
               className="h-full w-full object-cover"
             />
@@ -49,7 +48,7 @@ export default function Hero() {
 
           <div className="absolute -bottom-8 -left-8 hidden aspect-square w-32 overflow-hidden rounded-2xl border-4 border-cream shadow-xl sm:block md:w-40">
             <img
-              src="/images/hero/hero-secondary.svg"
+              src="/images/hero/hero-secondary.jpg"
               alt="Detalle de maquillaje realizado por Merce"
               className="h-full w-full object-cover"
             />

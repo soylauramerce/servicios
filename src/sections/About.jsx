@@ -8,9 +8,8 @@ export default function About() {
       <div className="mx-auto max-w-7xl px-6 md:px-10">
         <div className="grid gap-14 md:grid-cols-[0.85fr_1.15fr] md:items-center md:gap-16">
           <Reveal className="img-zoom relative aspect-[4/5] overflow-hidden rounded-3xl">
-            {/* TODO: reemplazar por foto profesional real de Merce */}
             <img
-              src="/images/about/about-merce.svg"
+              src="/images/about/about-merce.jpg"
               alt="Retrato de Merce, maquilladora profesional"
               className="h-full w-full object-cover"
               loading="lazy"
